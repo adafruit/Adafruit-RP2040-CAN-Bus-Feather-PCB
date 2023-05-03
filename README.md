@@ -10,7 +10,7 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
-If you'd like quickly get started with CAN bus interfacing, with no soldering required, our Adafruit RP2040 CAN Bus Feather comes ready-to-rock with a microcontroller, CAN chipset and terminal blocks for instant gratification. The controller used is the MCP26525 (aka a MCP2515 with built-in transciever), an extremely popular and well-supported chipset that has drivers in Arduino and CircuitPython and only requires an SPI port and two pins for chip-select and IRQ. Use it to send and receive messages in either standard or extended format at up to 1 Mbps.
+If you'd like to quickly get started with CAN bus interfacing, with no soldering required, our Adafruit RP2040 CAN Bus Feather comes ready-to-rock with a microcontroller, CAN chipset and terminal blocks for instant gratification. The controller used is the MCP26525 (aka a MCP2515 with built-in transciever), an extremely popular and well-supported chipset that has drivers in Arduino and CircuitPython and only requires an SPI port and two pins for chip-select and IRQ. Use it to send and receive messages in either standard or extended format at up to 1 Mbps.
 
 Feather is the development board specification from Adafruit, and like its namesake, it is thin, light, and lets you fly! We designed Feather to be a new standard for portable microcontroller cores. We have other boards in the Feather family, check'em out here.
 
